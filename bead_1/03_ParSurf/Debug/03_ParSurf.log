@@ -1,0 +1,4 @@
+﻿  MyApp.cpp
+c:\users\elite\desktop\bead_1\03_parsurf\glutils.hpp(22): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\elite\desktop\bead_1\03_parsurf\glutils.hpp(22): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  03_ParSurf.vcxproj -> C:\Users\Elite\Desktop\bead_1\Debug\03_ParSurf.exe
